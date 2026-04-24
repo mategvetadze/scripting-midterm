@@ -112,11 +112,13 @@ a {
 }
 
 .brand-logo {
-    width: 44px;
-    height: 44px;
-    background: #fff;
+    width: 52px;
+    height: 52px;
+    object-fit: contain;
+    background: #ffffff;
     border-radius: 10px;
-    padding: 5px;
+    padding: 4px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
 }
 
 .brand-name {
