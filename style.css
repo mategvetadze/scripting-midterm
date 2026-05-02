@@ -374,6 +374,20 @@ a {
     margin-top: 28px;
 }
 
+.programs-group + .programs-group {
+    margin-top: 32px;
+}
+
+.programs-heading {
+    font-size: 1.3rem;
+    color: var(--brand-deep);
+    margin: 10px 0 6px;
+}
+
+.programs-group .programs-grid {
+    margin-top: 16px;
+}
+
 .feature-card,
 .program-card {
     flex: 1;
