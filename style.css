@@ -374,7 +374,7 @@ a {
     margin-top: 28px;
 }
 
-.programs-group + .programs-group {
+.programs-group+.programs-group {
     margin-top: 32px;
 }
 
